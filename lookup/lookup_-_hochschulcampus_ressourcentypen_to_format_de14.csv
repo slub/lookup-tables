@@ -1,0 +1,26 @@
+hcrt_url,format_de14
+https://w3id.org/kim/hcrt/application,Software
+https://w3id.org/kim/hcrt/assessment,Unknown Format
+https://w3id.org/kim/hcrt/audio,Audio
+https://w3id.org/kim/hcrt/case_study,Unknown Format
+https://w3id.org/kim/hcrt/course,Kit
+https://w3id.org/kim/hcrt/data,Electronic Resource
+https://w3id.org/kim/hcrt/diagram,Visual Media
+https://w3id.org/kim/hcrt/drill_and_practice,Unknown Format
+https://w3id.org/kim/hcrt/educational_game,Electronic Resource
+https://w3id.org/kim/hcrt/experiment,Electronic Resource
+https://w3id.org/kim/hcrt/image,Visual Media
+https://w3id.org/kim/hcrt/index,Electronic Resource
+https://w3id.org/kim/hcrt/lesson_plan,Kit
+https://w3id.org/kim/hcrt/map,Map
+https://w3id.org/kim/hcrt/portal,Website
+https://w3id.org/kim/hcrt/questionnaire,Electronic Resource
+https://w3id.org/kim/hcrt/script,Electronic Resource
+https://w3id.org/kim/hcrt/simulation,Electronic Resource
+https://w3id.org/kim/hcrt/slide,Electronic Resource
+https://w3id.org/kim/hcrt/text,Electronic Resource
+https://w3id.org/kim/hcrt/textbook,"Book, E-Book"
+https://w3id.org/kim/hcrt/video,Video
+https://w3id.org/kim/hcrt/web_page,Website
+https://w3id.org/kim/hcrt/worksheet,Kit
+https://w3id.org/kim/hcrt/other,Unknown Format
