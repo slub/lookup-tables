@@ -1,5 +1,7 @@
 # lookup-tables
 
+lookup tables (two columns CSV files)
+
 * [lookup_-_iso-639-1-code_to_language-name.csv](lookup/lookup_-_iso-639-1-code_to_language-name.csv): a (simple) translation from [ISO-639-1 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) to corresponding (English) language names
    * dervided from [language-codes-full.csv](https://datahub.io/core/language-codes/r/language-codes-full.csv) at [datahub.io](https://datahub.io), see [ISO Language Codes (639-1 and 693-2) and IETF Language Types](https://datahub.io/core/language-codes)
    * see also [Codes for the Representation of Names of Languages](https://www.loc.gov/standards/iso639-2/php/code_list.php)
@@ -7,3 +9,9 @@
 * [lookup_-_hochschulfaechersystematik_to_fincclass_txtF_mv.csv](lookup/lookup_-_hochschulfaechersystematik_to_fincclass_txtF_mv.csv): a mapping from the values of [Hochschulfächersystematik](https://w3id.org/kim/hochschulfaechersystematik/scheme) (see also: [git repository](https://github.com/dini-ag-kim/hochschulfaechersystematik)) to the values of (the field) ```fincclass_txtF_mv```
 * [lookup_-_hochschulcampus_ressourcentypen_to_format_de14.csv](lookup/lookup_-_hochschulcampus_ressourcentypen_to_format_de14.csv): a mapping from the values of [Hochschulcampus Ressourcentypen](https://w3id.org/kim/hcrt/scheme) (see also: [git repository](https://github.com/dini-ag-kim/hcrt)) to the values of (the field) ```format_de14```
 * [lookup_-_hochschulcampus_ressourcentypen_to_format.csv](lookup/lookup_-_hochschulcampus_ressourcentypen_to_format.csv): a mapping from the values of [Hochschulcampus Ressourcentypen](https://w3id.org/kim/hcrt/scheme) (see also: [git repository](https://github.com/dini-ag-kim/hcrt)) to the values of (the field) ```format```
+
+# lists
+
+lists with values (one column CSV files)
+
+* [articles.csv](lists/articles.csv): a list of articles
