@@ -11,6 +11,7 @@ lookup tables (two columns CSV files)
 * [lookup_-_hochschulcampus_ressourcentypen_to_format.csv](lookup/lookup_-_hochschulcampus_ressourcentypen_to_format.csv): a mapping from the values of [Hochschulcampus Ressourcentypen](https://w3id.org/kim/hcrt/scheme) (see also: [git repository](https://github.com/dini-ag-kim/hcrt)) to the values of (the field) ```format```
 * [opal_kurssprache_to_iso-639-1-code.csv](lookup/opal_kurssprache_to_iso-639-1-code.csv): a (simple) translation from values of the field ```kurssprache``` in [OPAL](https://bildungsportal.sachsen.de/opal/) learning resources to [ISO-639-1 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 * [opal_license_to_license_uri.csv](lookup/opal_license_to_license_uri.csv): a (simple) translation from values of the field ```license``` in [OPAL](https://bildungsportal.sachsen.de/opal/) learning resources to their respective license URIs
+* [opal_resourcetype_to_hcrt_uri.csv](lookup/opal_resourcetype_to_hcrt_uri.csv): a mapping from values of the field ```resourcetype``` in [OPAL](https://bildungsportal.sachsen.de/opal/) learning resources to values of [Hochschulcampus Ressourcentypen](https://w3id.org/kim/hcrt/scheme) (see also: [git repository](https://github.com/dini-ag-kim/hcrt))
 
 # lists
 
