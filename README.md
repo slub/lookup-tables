@@ -19,3 +19,4 @@ lookup tables ((mainly) two columns CSV files)
 lists with values (one column CSV files)
 
 * [articles.csv](lists/articles.csv): a list of articles
+* [opal_katalogeintraege_institution_blacklist.csv](lists/opal_katalogeintraege_institution_blacklist.csv): a blacklist for institution values in ```katalogeintraege``` in [OPAL](https://bildungsportal.sachsen.de/opal/) learning resources
