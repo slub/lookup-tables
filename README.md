@@ -21,4 +21,5 @@ lists with values (one column CSV files)
 * [articles.csv](lists/articles.csv): a list of articles
 * [opal_katalogeintraege_institution_blacklist.csv](lists/opal_katalogeintraege_institution_blacklist.csv): a blacklist for institution values in ```katalogeintraege``` in [OPAL](https://bildungsportal.sachsen.de/opal/) learning resources
 * [opal_katalogeintraege_institution_whitelist.csv](lists/opal_katalogeintraege_institution_whitelist.csv): a whitelist for institution values in ```katalogeintraege``` in [OPAL](https://bildungsportal.sachsen.de/opal/) learning resources
+* [opal_authorinstitution_blacklist.csv](lists/opal_authorinstitution_blacklist.csv): a blacklist for institution values in ```authorinstitution``` in [OPAL](https://bildungsportal.sachsen.de/opal/) learning resources
 * [opal_institution_blacklist.csv](lists/opal_institution_blacklist.csv): a blacklist for institution values in ```institution``` in [OPAL](https://bildungsportal.sachsen.de/opal/) learning resources
