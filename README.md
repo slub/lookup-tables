@@ -13,6 +13,7 @@ lookup tables ((mainly) two columns CSV files)
 * [opal_license_to_license_uri.csv](lookup/opal_license_to_license_uri.csv): a (simple) translation from values of the field ```license``` in [OPAL](https://bildungsportal.sachsen.de/opal/) learning resources to their respective license URIs
 * [opal_resourcetype_to_hcrt_uri.csv](lookup/opal_resourcetype_to_hcrt_uri.csv): a mapping from values of the field ```resourcetype``` in [OPAL](https://bildungsportal.sachsen.de/opal/) learning resources to values of [Hochschulcampus Ressourcentypen](https://w3id.org/kim/hcrt/scheme) (see also: [git repository](https://github.com/dini-ag-kim/hcrt))
 * [hcrt.csv](lookup/hcrt.csv): a (simple) translation from [Hochschulcampus Ressourcentypen](https://w3id.org/kim/hcrt/scheme) URIs to their respective labels in German and English (see also: [git repository](https://github.com/dini-ag-kim/hcrt))
+* [lookup_-_opal_katalogeintraege_tags_to_hochschulfaechersystematik_urls.csv](lookup/lookup_-_opal_katalogeintraege_tags_to_hochschulfaechersystematik_urls.csv): a mapping from the extracted tags in ```katalogeintraege``` in [OPAL](https://bildungsportal.sachsen.de/opal/) learning resources to the values of [Hochschulfächersystematik](https://w3id.org/kim/hochschulfaechersystematik/scheme) (see also: [git repository](https://github.com/dini-ag-kim/hochschulfaechersystematik))
 
 # lists
 
