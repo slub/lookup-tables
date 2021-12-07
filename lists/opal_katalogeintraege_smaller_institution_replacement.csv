@@ -8,7 +8,7 @@ institution_repl
 "Master"
 "Diplom"
 "Fachrichtung "
-"Fakultät"
+"Fakultät "
 "für"
 "Fernstudium"
 "Institut "
@@ -58,4 +58,5 @@ institution_repl
 "Dipl.-Ing."
 "nat."
 "Dipl."
+"Fachgruppe"
 
